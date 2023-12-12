@@ -1,5 +1,0 @@
-Random Quote Machine:
-https://mfr5lw.csb.app/
-https://codesandbox.io/p/sandbox/wonderful-sea-mfr5lw?file=%2Fsrc%2FApp.js
-
-Drum Machine:
